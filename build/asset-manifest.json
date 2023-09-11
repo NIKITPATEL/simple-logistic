@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-logistic/static/css/main.536e33e5.css",
+    "main.js": "/simple-logistic/static/js/main.9e7e97c6.js",
+    "static/js/787.7e9f783a.chunk.js": "/simple-logistic/static/js/787.7e9f783a.chunk.js",
+    "index.html": "/simple-logistic/index.html",
+    "main.536e33e5.css.map": "/simple-logistic/static/css/main.536e33e5.css.map",
+    "main.9e7e97c6.js.map": "/simple-logistic/static/js/main.9e7e97c6.js.map",
+    "787.7e9f783a.chunk.js.map": "/simple-logistic/static/js/787.7e9f783a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536e33e5.css",
+    "static/js/main.9e7e97c6.js"
+  ]
+}
